@@ -6,7 +6,7 @@ export class Aluno{
     }
 
     exibirDados(){
-        return `Nome: ${this.nome} \nIdade: ${this.idade} \nCurso: ${this.curso}`;
+        return `Nome: ${this.nome} \nIdade: ${thisidade} \nCurso: ${this.curso}`;
     }
 
-}
+}; 
